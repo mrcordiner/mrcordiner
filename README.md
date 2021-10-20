@@ -1,4 +1,4 @@
-I teach Computer Science / Engineering, Communications Technology and Tech Design with the Toronto District School Board. My foci in the classroom are teaching programming, problem solving, making and the design process.
+I teach Computer Science / Engineering, Communications Technology and Tech Design. My foci in the classroom are teaching programming, problem solving, making and the design process.
 
 I teach my classes using a variety of techniques including project and enquiry based learning, differentiated instruction and blended learning. I believe in learning-by-doing and building up from first principles (as best as can be done).
 
