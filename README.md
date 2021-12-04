@@ -2,6 +2,7 @@ I teach Computer Science / Engineering, Communications Technology and Tech Desig
 
 I am interested in programming using Python, Processing, P5.js, graphic design and visualization. I also enjoying working with the Arduino and electronics. 
 
+- Blog: [mr.cordiner.com](https://mr.cordiner.com "mr.cordiner.com")
 - Twitter: [@mrcordiner](https://twitter.com/mrcordiner "@mrcordiner")
 - Instagram:  [@mrcordiner](https://www.instagram.com/mrcordiner "@mrcordiner")
 - YouTube: [mrcordiner](https://youtube.com/mrcordiner "Mr. Cordiner's YouTube Channel")
