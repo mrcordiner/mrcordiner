@@ -4,7 +4,7 @@ I am interested in programming using Python, Processing, P5.js, graphic design a
 
 Twitter: @mrcordiner
 Instagram: @mrcordiner
-Youtube: [link](http://youtube.com/mrcordiner "title")
+YouTube: [mrcordiner](http://youtube.com/mrcordiner "Mr. Cordiner's YouTube Channel")
 
 
 I have presented frequently at conferences and workshops in these areas.
